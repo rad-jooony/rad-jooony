@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rad-jooony
-- 👀 I’m interested in ... both
-- 🌱 I’m currently learning ... to love like i've never loved before
-- 💞️ I’m looking to collaborate on ... how to get that sweet dolphin puss
-- 📫 How to reach me ... with ur hands
+ey, wassup
+
+some of this is my own stuff, the other stuff is probably uni projects
 
 <!---
 rad-jooony/rad-jooony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
